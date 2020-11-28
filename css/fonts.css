@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src:url('../fonts/Roboto-Regular.ttf');
+  
+}
+@font-face{
+  font-family: "OpenSans-Regular";
+  src:url('../fonts/OpenSans-Regular.ttf');
+}
+@font-face{
+  font-family: "Philosopher-Italic";
+  src:url('../fonts/Philosopher-Italic.ttf');
+}
+
